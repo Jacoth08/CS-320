@@ -16,4 +16,5 @@ interpreting user's needs.
 How do I approach designing software?
 
 My approach to developing software is to first have a very clear understanding of the customer's requirements, both functional and non-functional.
-
+Documenting these requirements in a requirements document will later be used to help develop models like flowcharts. I then start writing psuedocode
+before I begin to code and start worrying about the syntax of the programming language being used.
