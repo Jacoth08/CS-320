@@ -2,7 +2,7 @@
 
 How can I ensure that my code, program, or software is functional and secure?
 
-Testing frequently throughout the SDLC is the key factor in ensuring that the final code is functional and secure. Havig the testing performed
+Testing frequently throughout the SDLC is the key factor in ensuring that the final code is functional and secure. Having the testing performed
 by others within a development team will also help catch bugs in the program because there is less bias present as opposed to developing and checking
 your own code.
 
@@ -15,4 +15,5 @@ interpreting user's needs.
 
 How do I approach designing software?
 
+My approach to developing software is to first have a very clear understanding of the customer's requirements, both functional and non-functional.
 
